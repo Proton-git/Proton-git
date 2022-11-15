@@ -32,7 +32,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 <img align="center" src="https://i.giphy.com/media/dtshbpJkhxxVc9JKh3/giphy.webp"><br><br>
-<div style="width:100%;height:0;padding-bottom:39%;position:relative;"><iframe src="https://giphy.com/embed/oEnysR9S7mXxDOhEuy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oEnysR9S7mXxDOhEuy">via GIPHY</a></p>
 <br>
 <br>
 <br>

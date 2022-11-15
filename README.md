@@ -20,7 +20,7 @@
 <br>
 
 - A Cyber security passionate
-- Playing CTF's at spare time
+- OSINT Master
 - Currently learning Reverse and malware development
 
 <br><br>

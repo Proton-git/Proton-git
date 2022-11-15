@@ -7,12 +7,18 @@
        alt="snake" /></a>
 </div>
 <br>
+
 <br>
+
 - Cyber security passionate
 - OSINT Master
 - Currently learning Reverse and malware development
+
+
 <br>
+
 -----
+
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>

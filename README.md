@@ -11,8 +11,7 @@
 
 <br>
 
-- Cyber security passionate
-- Complexe OSINT Skills
+- Cyber security & OSINT passionate
 - Currently learning Reverse and malware development
 
 

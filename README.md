@@ -10,11 +10,11 @@
 <br>
 
 <br>
-
+```console
 - Cyber security & OSINT passionate
 - Currently learning Reverse and malware development
 
-
+```
 <br>
 
 -----
